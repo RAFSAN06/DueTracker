@@ -1,0 +1,34 @@
+
+.container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: sans-serif;
+}
+
+.input-section input {
+  margin-right: 8px;
+  padding: 5px;
+}
+
+.input-section button {
+  padding: 6px 12px;
+}
+
+.item-list {
+  list-style: none;
+  padding: 0;
+}
+
+.item-list li {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 0;
+}
+
+.total {
+  margin-top: 20px;
+  font-weight: bold;
+}
